@@ -5,6 +5,7 @@ Electron-based Virtual MIDI Controller that like [Novation Launchpad](https://us
 ![screen shot](./assets/screenshot.png)
 
 ## Installation
+Use Node v10.\*, Python 2.7.\*, and Visual Studio 2017 to build this project. Recent versions are not supported by some modules in this project.
 
 ```
 $ git clone https://github.com/mohayonao/virtual-midi-matrix-pad.git
